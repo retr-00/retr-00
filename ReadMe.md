@@ -3,54 +3,31 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gvs-umesh)
 [![Email Badge](https://img.shields.io/badge/Email-gvsumesh29%40gmail.com-green?style=flat&logo=gmail)](mailto:gvsumesh29@gmail.com)
 
----
+## 🚀 About Me
 
-### Welcome to My Digital Fortress 🏰
+I'm Umesh, a **Cybersecurity Specialist** and **Senior Full Stack Developer** based in London, United Kingdom. I combine deep technical expertise with strategic insights to develop and secure cutting-edge software solutions.
 
-I am Umesh, a dedicated **Cybersecurity Specialist** and **Senior Full Stack Developer** based in London, United Kingdom. My career is anchored in developing secure, scalable software solutions and pioneering advanced security measures to safeguard digital assets.
+**🔧 Technologies I work with:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-- 🖥 **Languages & Technologies**: JavaScript, Python, React, Node.js, SQL
-- 🔐 **Security Tools**: Burp Suite, Metasploit, Nmap
-- ☁️ **Cloud & DevOps**: AWS, Docker, CI/CD
-- 📊 **Database Management**: SQL Server, MongoDB
+## 💻 Featured Projects
 
----
+- **Secure Web App**: Developed a secure web application using React and Node.js, integrating advanced security protocols to ensure data protection.
+- **Automated Deployment System**: Implemented a fully automated CI/CD pipeline using Docker and AWS to streamline deployment processes and reduce downtime.
 
-## 🌟 What I Do
+## 🎓 Education
 
-I apply a dual lens of **development and security** to every project, ensuring robust, scalable, and secure applications. Here's a brief overview of my professional landscape:
+- **Masters in Computer Science** - University of Roehampton, UK (Expected 2024)
+- **Bachelor of Technology** - Centurion University, AP (2021)
 
-### Full Stack Development
-- Designing and implementing responsive web applications.
-- Ensuring cross-platform optimization for mobile and desktop.
-- Building reusable code for future use.
+## 🤝 Connect With Me
 
-### Cybersecurity
-- Conducting detailed penetration testing and vulnerability assessments.
-- Developing and implementing comprehensive security protocols.
-- Staying ahead of emerging cyber threats with proactive strategies.
+Interested in collaborating on projects or discussing the latest in tech and security? Let's connect!
 
-### System Architecture & Optimization
-- Enhancing existing architectures for better scalability and performance.
-- Reducing system latency with efficient backend optimizations.
+[![Umesh's LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
 
----
-
-## 📚 My Educational Journey
-
-🎓 **Masters in Computer Science** - University of Roehampton, UK (Expected 2024)  
-🎓 **Bachelor of Technology** - Centurion University, AP (2021)
-
----
-
-## 📈 GitHub Stats
-
-![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr-00&show_icons=true&theme=radical)
-
----
-
-## 🤝 Let's Connect
-
-I am always eager to grow my network and collaborate on exciting projects. Feel free to reach out to me if you are interested in developing innovative solutions or need advice on cybersecurity matters.
-
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gvs-umesh)
