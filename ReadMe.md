@@ -29,5 +29,5 @@ I'm Umesh, a **Cybersecurity Specialist** and **Senior Full Stack Developer** ba
 
 Interested in collaborating on projects or discussing the latest in tech and security? Let's connect!
 
-[![Umesh's LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Umesh's LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gvs-umesh)
 
