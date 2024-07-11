@@ -22,7 +22,7 @@ I'm Umesh, a **Cybersecurity Specialist** and **Senior Full Stack Developer** ba
 
 ## 🎓 Education
 
-- **Masters in Computer Science** - University of Roehampton, UK (Expected 2024)
+- **Masters in Cyber Security** - University of Roehampton, UK (Expected 2024)
 - **Bachelor of Technology** - Centurion University, AP (2021)
 
 ## 🤝 Connect With Me
